@@ -1,0 +1,27 @@
+{
+  "name": "@team/npm-reg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://registry.team.com/"
+  },
+  "release": {
+    "preset": "angular",
+    "debug": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bspatil0001/npm-reg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bspatil0001/npm-reg/issues"
+  },
+  "homepage": "https://github.com/bspatil0001/npm-reg#readme"
+}
